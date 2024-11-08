@@ -1,5 +1,20 @@
 * {
     margin: 0;
     padding: 0;
+}
+
+body {
+    height: 100vh;
     box-sizing: border-box;
+    background-color: #000000;
+    color: #f6f6f6;
+}
+
+.titulo_destaque {
+    color: #22d4fd;
+}
+
+.apresentacao {
+    margin: 10% 15%;
+    display: flex;
 }
