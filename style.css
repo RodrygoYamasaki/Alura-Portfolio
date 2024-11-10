@@ -54,7 +54,7 @@ body {
     font-size: 24px;
 }
 
-.apresentacao__links__links {
+.apresentacao__links__link {
     display: flex;
     justify-content: center;
     gap: 16px;
@@ -68,4 +68,8 @@ body {
     text-decoration: none;
     color: #f6f6f6;
     font-family: "Montserrat", sans-serif;
+}
+
+.apresentacao__links__link:hover {
+    background-color: #272727;
 }
