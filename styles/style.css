@@ -49,7 +49,7 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 615px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px;
