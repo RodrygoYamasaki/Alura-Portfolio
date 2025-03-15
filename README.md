@@ -16,3 +16,5 @@ Neste repositório você encontrará um portfólio simples, mas eficiente, que d
 ## 🌐 Acesse Meu Portfólio
 
 ## 🛠️ Como Rodar o Projeto Localmente
+
+1. Clone o repositório:
