@@ -5,3 +5,5 @@ Olá! 👋 Eu sou **Joana Santos**, desenvolvedora Front-end com especialidade e
 ## 💼 Sobre Mim
 
 Sou apaixonada por criar experiências incríveis na web, e meu objetivo é ajudar pequenos negócios e designers a transformarem suas ideias em realidade através de interfaces de alta qualidade.
+
+Neste repositório você encontrará um portfólio simples, mas eficiente, que destaca minhas habilidades e oferece links para minhas redes sociais e mais.
