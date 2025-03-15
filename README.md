@@ -14,3 +14,5 @@ Neste repositório você encontrará um portfólio simples, mas eficiente, que d
 - **CSS3** 🎨
 
 ## 🌐 Acesse Meu Portfólio
+
+## 🛠️ Como Rodar o Projeto Localmente
