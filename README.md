@@ -19,3 +19,4 @@ Neste repositório você encontrará um portfólio simples, mas eficiente, que d
 
 1. Clone o repositório.
 2. Abra a pasta do projeto.
+3. Abra o arquivo `index.html` no seu navegador preferido.
