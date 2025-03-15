@@ -9,3 +9,5 @@ Sou apaixonada por criar experiências incríveis na web, e meu objetivo é ajud
 Neste repositório você encontrará um portfólio simples, mas eficiente, que destaca minhas habilidades e oferece links para minhas redes sociais e mais.
 
 ## 🔧 Tecnologias Usadas
+
+- **HTML5** 🧑‍💻
