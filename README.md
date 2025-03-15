@@ -17,4 +17,5 @@ Neste repositório você encontrará um portfólio simples, mas eficiente, que d
 
 ## 🛠️ Como Rodar o Projeto Localmente
 
-1. Clone o repositório:
+1. Clone o repositório.
+2. Abra a pasta do projeto.
