@@ -11,3 +11,4 @@ Neste repositório você encontrará um portfólio simples, mas eficiente, que d
 ## 🔧 Tecnologias Usadas
 
 - **HTML5** 🧑‍💻
+- **CSS3** 🎨
